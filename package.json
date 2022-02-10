@@ -10,7 +10,10 @@
     "eslint": "eslint \"./**/*.{js,jsx}\"",
     "build": "webpack --mode production",
     "cypress:open": "cypress open",
-    "test:e2e": "cypress run"
+    "test:e2e": "cypress run",
+    "log": "heroku logs -t -a pokedex-1337",
+    "open": "open https://pokedex-1337.herokuapp.com/",
+    "heroku-prebuild": "npm install --dev"
   },
   "repository": {
     "type": "git",
