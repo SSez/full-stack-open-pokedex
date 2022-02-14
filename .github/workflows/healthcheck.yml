@@ -1,8 +1,10 @@
-name: Perioding healthcheck
+name: Periodic Health Check
 
+# https://crontab.guru/
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '* * * 1 *' # At evert January
+    #- cron: '*/1 * * * *' # At every minute
 
 jobs:
   health_check:
