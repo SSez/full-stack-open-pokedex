@@ -1,5 +1,10 @@
 # Exercises
 
+## Assignments
+### 11.1. : Assignment_1.md
+### 11.2. - 11.20. : `https://github.com/SSez/full-stack-open-pokedex`
+### 11.21. - 11.22. : `https://github.com/SSez/CICD-Bloglist`
+
 # Full Stack open CI/CD
 
 This repository is used for the CI/CD module of the Full stack open course
