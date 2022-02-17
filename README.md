@@ -2,8 +2,8 @@
 
 ## Assignments
 ### 11.1. : Assignment_1.md
-### 11.2. - 11.20. : `https://github.com/SSez/full-stack-open-pokedex`
-### 11.21. - 11.22. : `https://github.com/SSez/CICD-Bloglist`
+### 11.2. - 11.20. : [CICD Pokedex](https://github.com/SSez/full-stack-open-pokedex)
+### 11.21. - 11.22. : [CICD Bloglist](https://github.com/SSez/CICD-Bloglist)
 
 # Full Stack open CI/CD
 
